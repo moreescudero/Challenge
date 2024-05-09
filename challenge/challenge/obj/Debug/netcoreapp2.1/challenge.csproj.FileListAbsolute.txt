@@ -1,0 +1,11 @@
+C:\Users\programadormtg5\source\repos\challenge\challenge\bin\Debug\netcoreapp2.1\challenge.deps.json
+C:\Users\programadormtg5\source\repos\challenge\challenge\bin\Debug\netcoreapp2.1\challenge.runtimeconfig.json
+C:\Users\programadormtg5\source\repos\challenge\challenge\bin\Debug\netcoreapp2.1\challenge.runtimeconfig.dev.json
+C:\Users\programadormtg5\source\repos\challenge\challenge\bin\Debug\netcoreapp2.1\challenge.dll
+C:\Users\programadormtg5\source\repos\challenge\challenge\bin\Debug\netcoreapp2.1\challenge.pdb
+C:\Users\programadormtg5\source\repos\challenge\challenge\obj\Debug\netcoreapp2.1\challenge.csproj.AssemblyReference.cache
+C:\Users\programadormtg5\source\repos\challenge\challenge\obj\Debug\netcoreapp2.1\challenge.csproj.CoreCompileInputs.cache
+C:\Users\programadormtg5\source\repos\challenge\challenge\obj\Debug\netcoreapp2.1\challenge.AssemblyInfoInputs.cache
+C:\Users\programadormtg5\source\repos\challenge\challenge\obj\Debug\netcoreapp2.1\challenge.AssemblyInfo.cs
+C:\Users\programadormtg5\source\repos\challenge\challenge\obj\Debug\netcoreapp2.1\challenge.dll
+C:\Users\programadormtg5\source\repos\challenge\challenge\obj\Debug\netcoreapp2.1\challenge.pdb
